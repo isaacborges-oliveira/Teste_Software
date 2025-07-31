@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\43022067801\\Desktop\\ReservasAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A55DA-31DF-4EA5-8E4C-F0FD16326BA4}|Reservas.Testes\\Reservas.Testes.csproj|c:\\users\\43022067801\\desktop\\reservasapi\\reservas.testes\\controllers\\reservascontrollerteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A55DA-31DF-4EA5-8E4C-F0FD16326BA4}|Reservas.Testes\\Reservas.Testes.csproj|solutionrelative:reservas.testes\\controllers\\reservascontrollerteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A55DA-31DF-4EA5-8E4C-F0FD16326BA4}|Reservas.Testes\\Reservas.Testes.csproj|c:\\users\\43022067801\\desktop\\reservasapi\\reservas.testes\\mockdata\\reservasmockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE2A55DA-31DF-4EA5-8E4C-F0FD16326BA4}|Reservas.Testes\\Reservas.Testes.csproj|solutionrelative:reservas.testes\\mockdata\\reservasmockdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE2A55DA-31DF-4EA5-8E4C-F0FD16326BA4}|Reservas.Testes\\Reservas.Testes.csproj|c:\\users\\43022067801\\desktop\\reservasapi\\reservas.testes\\reservas.testes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE2A55DA-31DF-4EA5-8E4C-F0FD16326BA4}|Reservas.Testes\\Reservas.Testes.csproj|solutionrelative:reservas.testes\\reservas.testes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservasControllerTeste.cs",
+              "DocumentMoniker": "C:\\Users\\43022067801\\Desktop\\ReservasAPI\\Reservas.Testes\\Controllers\\ReservasControllerTeste.cs",
+              "RelativeDocumentMoniker": "Reservas.Testes\\Controllers\\ReservasControllerTeste.cs",
+              "ToolTip": "C:\\Users\\43022067801\\Desktop\\ReservasAPI\\Reservas.Testes\\Controllers\\ReservasControllerTeste.cs*",
+              "RelativeToolTip": "Reservas.Testes\\Controllers\\ReservasControllerTeste.cs*",
+              "ViewState": "AgIAAG0AAAAAAAAAAAASwHkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T12:33:48.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservasMockData.cs",
+              "DocumentMoniker": "C:\\Users\\43022067801\\Desktop\\ReservasAPI\\Reservas.Testes\\MockData\\ReservasMockData.cs",
+              "RelativeDocumentMoniker": "Reservas.Testes\\MockData\\ReservasMockData.cs",
+              "ToolTip": "C:\\Users\\43022067801\\Desktop\\ReservasAPI\\Reservas.Testes\\MockData\\ReservasMockData.cs",
+              "RelativeToolTip": "Reservas.Testes\\MockData\\ReservasMockData.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T12:21:32.76Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservas.Testes.csproj",
+              "DocumentMoniker": "C:\\Users\\43022067801\\Desktop\\ReservasAPI\\Reservas.Testes\\Reservas.Testes.csproj",
+              "RelativeDocumentMoniker": "Reservas.Testes\\Reservas.Testes.csproj",
+              "ToolTip": "C:\\Users\\43022067801\\Desktop\\ReservasAPI\\Reservas.Testes\\Reservas.Testes.csproj",
+              "RelativeToolTip": "Reservas.Testes\\Reservas.Testes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-31T12:15:06.656Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
